@@ -1,0 +1,22 @@
+.table1 td {
+    width: 330px;
+    padding: 10px;
+}
+
+.table1 th {
+    text-align: left;
+    padding: 10px;
+}
+
+.table1 tr td:first-child {
+    font-weight: bold;
+
+}
+
+.profile_img {
+    margin-left: 5px;
+}
+
+body {
+    padding-left: 3px;
+}
